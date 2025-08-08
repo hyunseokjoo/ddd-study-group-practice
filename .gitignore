@@ -1,0 +1,6 @@
+
+.qudo/
+.env
+.venv
+.ruff_cache
+
